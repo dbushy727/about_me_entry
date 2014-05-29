@@ -1,0 +1,67 @@
+
+body {
+	text-align: center;
+	background: -moz-linear-gradient(bottom, rgba(255,255,204,1), rgba(255,255,204,.4));#ffffcc;
+	background: -webkit-linear-gradient(bottom, rgba(255,255,204,1), rgba(255,255,204,.4));#ffffcc;
+	background: linear-gradient(bottom, rgba(255,255,204,1), rgba(255,255,204,.4));#ffffcc;
+}
+.heading {
+	font-family: 'Jacques Francois Shadow', cursive;
+}
+h1 {
+	font-size: 45px;
+	text-align: center;	
+	background: rgba(0,0,0,.4);
+	border: 6px solid black;
+}
+h2 {
+	font-family: 'Cherry Swash', cursive;
+	text-align: center;
+	font-size: 30px;
+	padding: 100px 10px 40px 10px;
+
+}
+h5 {
+	text-align: right;
+	font-size: 15px;
+	
+}
+.content {
+	font-family: 'Cherry Swash', cursive;
+	text-align: justify;
+	padding: 0 350px 0 350px;
+
+}
+h3 {
+	font-family: 'Cherry Swash', cursive;
+	text-align: center;
+}
+img {
+	margin: 0 auto;
+	border-radius: 45px;
+	height: 550px;
+	width: 275px;
+	border: 10px solid black;
+	
+
+}
+
+input {
+	font-family: 'Cherry Swash', cursive;
+padding: 15px;
+font-size: 18px;
+width: 275px;
+}
+input[type="submit"] {
+	background: red;
+	color: rgba(255,255,255,1);
+	width: 100px;
+	border: 0;
+}
+.contact {
+	text-align: center;
+	padding: 10px 0 500px 0;
+}
+.ending {
+	text-align: center;
+}
